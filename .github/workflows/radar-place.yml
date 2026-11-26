@@ -1,0 +1,30 @@
+name: Radar PLACE
+
+# Lunes y jueves a las 07:17 UTC (08:17 en invierno y 09:17 en verano, hora de Madrid).
+# También se puede lanzar a mano desde la pestaña Actions > Radar PLACE > Run workflow.
+on:
+  schedule:
+    - cron: "17 7 * * 1,4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  place:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Descargar y filtrar PLACE (últimos 4 días)
+        run: |
+          python3 place_deporte.py --dias 4 --salida salida || echo "El script termino con avisos, revisa la linea Fuentes del resultado"
+
+      - name: Guardar el resultado en el repositorio
+        run: |
+          git config user.name "radar-se360"
+          git config user.email "radar-se360@users.noreply.github.com"
+          git add salida/
+          git commit -m "Resultado PLACE $(date -u +%F)" || echo "Sin cambios"
+          git push
