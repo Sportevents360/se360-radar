@@ -1,0 +1,616 @@
+{
+  "generado": "2026-11-26T14:46:22+00:00",
+  "desde": "2026-11-22",
+  "fuentes": {
+    "perfiles": {
+      "paginas": 8,
+      "estado": "OK"
+    },
+    "agregadas": {
+      "paginas": 9,
+      "estado": "OK"
+    }
+  },
+  "licitaciones": [
+    {
+      "expediente": "032_26000323",
+      "titulo": "La gestión, dinamización y explotación del Centro Deportivo Municipal CEM La Marina",
+      "resumen": "Id licitación: 032_26000323; Órgano de Contratación: Institut Barcelona Esports; Importe: 0.00 EUR; Estado: EN PLAZO",
+      "organo": "Institut Barcelona Esports",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Concesión de servicios",
+      "tipo_codigo": "22",
+      "presupuesto_sin_iva": "0",
+      "valor_estimado": "18219271.63",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "2",
+      "fecha_limite": "2026-11-26 23:59:00",
+      "actualizado": "2026-11-23T06:01:00.507+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/f42f56f8-07c4-43e4-9c0d-9bfc4498f96c/300943686",
+      "detectado_por": [
+        "CPV 92610000",
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "4253/2026",
+      "titulo": "Licencia para uso común especial de bien de dominio público por procedimiento de subasta a la llana de la pista central del Pabellón Polideportivo \"El Deyre\" para las navidades 2026-2027",
+      "resumen": "Id licitación: 4253/2026; Órgano de Contratación: Junta de Gobierno Local del Ayuntamiento de la Villa de Otura; Importe: 2000 EUR; Estado: PUB",
+      "organo": "Junta de Gobierno Local del Ayuntamiento de la Villa de Otura",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Patrimonial",
+      "tipo_codigo": "50",
+      "presupuesto_sin_iva": "2000",
+      "valor_estimado": "2000",
+      "cpv": [
+        "79954000"
+      ],
+      "lugar": "Granada",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-11-30 23:59:00",
+      "actualizado": "2026-11-23T12:39:30.090+01:00",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=oQDXy3IF1dxSYrkJkLlFdw%3D%3D",
+      "detectado_por": [
+        "CPV 79954000",
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "452/2026/eCONT",
+      "titulo": "Serveis preventius sanitaris i d’intervenció que requereix l’Ajuntament de Vilanova i la Geltrú per acompanyament d’una AMBULÀNCIA SVB per la caminada amb gent gran organitzada pel Servei d’Esports consistent en una caminada de Marxa Nòrdica a Vilanova i la Geltrú el dia 3 de desembre de 2026.",
+      "resumen": "Id licitación: 452/2026/eCONT; Órgano de Contratación: Ajuntament de Vilanova i la Geltrú; Importe: 375.00 EUR; Estado: EN PLAZO",
+      "organo": "Ajuntament de Vilanova i la Geltrú",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "375",
+      "valor_estimado": "375",
+      "cpv": [
+        "85143000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "2",
+      "fecha_limite": "2026-11-30 23:59:59",
+      "actualizado": "2026-11-25T14:07:46.528+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/58f0fc47-a6c1-48aa-bc4e-605f9dccce0b/300950454",
+      "detectado_por": [
+        "palabra «esport»",
+        "palabra «marxa»",
+        "palabra «caminada»"
+      ]
+    },
+    {
+      "expediente": "Expd.16/2026/CONM-PMD",
+      "titulo": "Contrato mixto de servicios y suministros para la organización y ejecución de la Carrera Urbana Internacional Noche de San Antón 2027",
+      "resumen": "Id licitación: Expd.16/2026/CONM-PMD; Órgano de Contratación: Patronato Municipal de Deportes de Jaén; Importe: 165822.12 EUR; Estado: PUB",
+      "organo": "Patronato Municipal de Deportes de Jaén",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "165822.12",
+      "valor_estimado": "165822.12",
+      "cpv": [
+        "15981000",
+        "18530000",
+        "79710000",
+        "79952000",
+        "92221000",
+        "92620000"
+      ],
+      "lugar": "Jaén",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-02 14:00:00",
+      "actualizado": "2026-11-23T19:47:27.840+01:00",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=pMR%2FWXoOu7Y36J9Lctlsuw%3D%3D",
+      "detectado_por": [
+        "CPV 92620000",
+        "CPV 79952000",
+        "palabra «carrera»"
+      ]
+    },
+    {
+      "expediente": "2026/CO_SSER/0092",
+      "titulo": "Servicio de gestión de un sistema de aparcamientos seguro para bicicletas en origen.",
+      "resumen": "Id licitación: 2026/CO_SSER/0092; Órgano de Contratación: Ayuntamiento de Vitoria-Gasteiz-Concejala Delegada del Departamento de Espacio Público y Barrios; Importe: 7000EUR; Estado: PUB",
+      "organo": "Ayuntamiento de Vitoria-Gasteiz-Concejala Delegada del Departamento de Espacio Público y Barrios",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "7000",
+      "valor_estimado": "7000",
+      "cpv": [
+        "98351000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "999",
+      "fecha_limite": "2026-12-02 14:00:00",
+      "actualizado": "2026-11-24T15:11:56.925+01:00",
+      "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso764370/es_doc/index.html",
+      "detectado_por": [
+        "palabra «bicicleta»"
+      ]
+    },
+    {
+      "expediente": "9972/2026",
+      "titulo": "Serveis preventius en els esdeveniments esportius, culturals i festius, organitzats per l’Ajuntament de Pineda de Mar any 2027.",
+      "resumen": "Id licitación: 9972/2026; Órgano de Contratación: Ajuntament de Pineda de Mar; Importe: 21740.44 EUR; Estado: EN PLAZO",
+      "organo": "Ajuntament de Pineda de Mar",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "21740.44",
+      "valor_estimado": "51972.7",
+      "cpv": [
+        "85143000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "999",
+      "fecha_limite": "2026-12-05 23:59:59",
+      "actualizado": "2026-11-24T12:09:44.222+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/b7b3b97c-1de6-4cb5-997a-9c632016c999/300948361",
+      "detectado_por": [
+        "palabra «esport»"
+      ]
+    },
+    {
+      "expediente": "2026CSER0001",
+      "titulo": "Concesión de servicios para la gestión integral de las instalaciones deportivas municipales de Tolosa",
+      "resumen": "Id licitación: 2026CSER0001; Órgano de Contratación: Ayuntamiento de Tolosa-Pleno Municipal; Importe: 24000EUR; Estado: PUB",
+      "organo": "Ayuntamiento de Tolosa-Pleno Municipal",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "24000",
+      "valor_estimado": "36160412.19",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "2",
+      "fecha_limite": "2026-12-07 12:00:00",
+      "actualizado": "2026-11-25T17:11:30.840+01:00",
+      "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso751876/es_doc/index.html",
+      "detectado_por": [
+        "CPV 92610000",
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "418/2026",
+      "titulo": "Concesión de servicios para la gestión, explotación, dotación de equipamiento, mantenimiento y mejora del Gimnasio Municipal de Pulpí.",
+      "resumen": "Id licitación: 418/2026; Órgano de Contratación: PLENO AYUNTAMIENTO DE PULPÍ; Importe: 0 EUR; Estado: PUB",
+      "organo": "PLENO AYUNTAMIENTO DE PULPÍ",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Concesión de servicios",
+      "tipo_codigo": "22",
+      "presupuesto_sin_iva": "0",
+      "valor_estimado": "321743.8",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "Almería",
+      "procedimiento_codigo": "2",
+      "fecha_limite": "2026-12-08 14:00:00",
+      "actualizado": "2026-11-23T09:24:48.376+01:00",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=txd1jaXit8OExvMJXBMHHQ%3D%3D",
+      "detectado_por": [
+        "CPV 92610000"
+      ]
+    },
+    {
+      "expediente": "2165/2026",
+      "titulo": "Explotación de la Sala terapéutica en Pabellón Deportivo \"Audrey Pascual Seco\"",
+      "resumen": "Id licitación: 2165/2026; Órgano de Contratación: Junta de Gobierno del Ayuntamiento de Venturada; Importe: 12000 EUR; Estado: PUB",
+      "organo": "Junta de Gobierno del Ayuntamiento de Venturada",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Administrativo especial",
+      "tipo_codigo": "7",
+      "presupuesto_sin_iva": "12000",
+      "valor_estimado": "15000",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "Madrid",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-08 18:59:00",
+      "actualizado": "2026-11-23T14:01:58.006+01:00",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Hq4oC2nG1BQ4NavIWzMcHA%3D%3D",
+      "detectado_por": [
+        "CPV 92610000",
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "2547/2026",
+      "titulo": "gestió, organització i explotació per una empresa concessionària de la Festa de Cap d’Any municipal 2026–2027 al Pavelló Poliesportiu de Móra d’Ebre",
+      "resumen": "Id licitación: 2547/2026; Órgano de Contratación: Ajuntament de Móra d'Ebre; Importe: 300.00 EUR; Estado: EN PLAZO",
+      "organo": "Ajuntament de Móra d'Ebre",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Concesión de servicios",
+      "tipo_codigo": "22",
+      "presupuesto_sin_iva": "300",
+      "valor_estimado": "15050",
+      "cpv": [
+        "79954000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-09 11:00:00",
+      "actualizado": "2026-11-25T14:08:34.088+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/e3675ee0-993d-4c12-aeb5-6083b92d9938/300950641",
+      "detectado_por": [
+        "CPV 79954000",
+        "palabra «esport»"
+      ]
+    },
+    {
+      "expediente": "2026/CO_SSER/0098",
+      "titulo": "Contrato de la campaña de \"Rutas en la Naturaleza para mayores de 55 años\".",
+      "resumen": "Id licitación: 2026/CO_SSER/0098; Órgano de Contratación: Ayuntamiento de Vitoria-Gasteiz-Concejala-Delegada del Departamento de Deporte, Salud y Cooperación al desarrollo; Importe: 15645.2EUR; Estado: PUB",
+      "organo": "Ayuntamiento de Vitoria-Gasteiz-Concejala-Delegada del Departamento de Deporte, Salud y Cooperación al desarrollo",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "15645.2",
+      "valor_estimado": "31290.4",
+      "cpv": [
+        "92620000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "999",
+      "fecha_limite": "2026-12-09 14:00:00",
+      "actualizado": "2026-11-23T11:11:24.793+01:00",
+      "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso765531/es_doc/index.html",
+      "detectado_por": [
+        "CPV 92620000"
+      ]
+    },
+    {
+      "expediente": "ESP/2026/738",
+      "titulo": "L'objecte del present contracte de serveis és la prestació d'un servei de gestió consistent en la realització de tasques d'administració, taquillatge i guarda-roba a les piscines municipals de Sabadell i manteniment de l'aigua del vas de La Bassa.\nL'àmbit d'actuació del contracte inclou les instal·lacions següents:\n-Complex esportiu municipal de Olímpia\n-Piscina Municipal del Poliesportiu de Can Marcet.\n-Piscina Municipal del Parc del Nord.\n-Piscina del Complex Esportiu Municipal Sabadell Sud.\n-La Bassa.\nLa finalitat del contracte és garantir el servei de piscines d'estiu en relació amb la venta d'entrades a les taquilles de les piscines, la realització de tasques administratives pròpies de la campanya d'estiu i la\nneteja de l'aigua del vas de la Bassa, mitjançant la prestació d'un servei especialitzat i continuat. Aquest servei haurà de contribuir activament a la prestació del servei públic de les Piscines Municipals de Sabadell, vetllant pel compliment de les normativa vigent en la matèria així com del reglament municipal i actuant de manera immediata davant qualsevol incidència que es pugui produir.\nEn aquest sentit, l'empresa adjudicatària haurà de posar a disposició els mitjans personals i materials necessaris per a la prestació del contracte disposant de personal capacitat per desenvolupar les funcions pròpies del servei, així com dels recursos tècnics i organitzatius necessaris per garantir una correcta prestació del servei.\nLa descripció detallada del servei, així com la resta de requeriments amb les que caldrà executar-lo, es recullen al Plec de Prescripcions Tècniques Particulars. No obstant indicar que el servei haurà d'incloure:\n-Personal suficient destinat al conjunt de tores les instal·lacions en la totalitat del servei\n-Coordinador/a general localitzable durant tot l'horari de prestació dels serveis objecte del contracte.\n-Substitució immediata del personal destinat en la instal·lació en cas de necessita",
+      "resumen": "Id licitación: ESP/2026/738; Órgano de Contratación: Ajuntament de Sabadell; Importe: 419415.40 EUR; Estado: EN PLAZO",
+      "organo": "Ajuntament de Sabadell",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "999",
+      "tipo_codigo": "999",
+      "presupuesto_sin_iva": "419415.4",
+      "valor_estimado": "503298.48",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-09 23:59:00",
+      "actualizado": "2026-11-24T14:08:48.458+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/39984bab-e95e-465e-b59f-05c47000685b/300945930",
+      "detectado_por": [
+        "CPV 92610000",
+        "palabra «esport»"
+      ]
+    },
+    {
+      "expediente": "2026/3/TAA",
+      "titulo": "Concessió del servei de cantina del complex esportiu municipal l’Illa esportiva de Castellbisbal",
+      "resumen": "Id licitación: 2026/3/TAA; Órgano de Contratación: Ajuntament de Castellbisbal; Importe: 0.00 EUR; Estado: EN PLAZO",
+      "organo": "Ajuntament de Castellbisbal",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Concesión de servicios",
+      "tipo_codigo": "22",
+      "presupuesto_sin_iva": "0",
+      "valor_estimado": "940000",
+      "cpv": [
+        "55500000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-09 23:59:59",
+      "actualizado": "2026-11-24T16:05:57.797+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/efcb3969-3f99-4ace-a02f-a85e7b684fa6/300949371",
+      "detectado_por": [
+        "palabra «esport»"
+      ]
+    },
+    {
+      "expediente": "2026KOAD0008",
+      "titulo": "Contratación de servicios de actividades deportivas en el Polideportivo Municipal de Zestoa",
+      "resumen": "Id licitación: 2026KOAD0008; Órgano de Contratación: Ayuntamiento de Zestoa-Alcaldía; Importe: 29000EUR; Estado: PUB",
+      "organo": "Ayuntamiento de Zestoa-Alcaldía",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "29000",
+      "valor_estimado": "116000",
+      "cpv": [
+        "92600000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-10 10:00:00",
+      "actualizado": "2026-11-24T11:12:26.792+01:00",
+      "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso766449/es_doc/index.html",
+      "detectado_por": [
+        "CPV 92600000",
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "CONTR/2026/0000000624",
+      "titulo": "Servei de coordinació, direcció de curses i altres serveis auxiliars per a esdeveniments esportius a les estacions de muntanya d’Espot i Port Ainé (POS167/26)",
+      "resumen": "Id licitación: CONTR/2026/0000000624; Órgano de Contratación: Ferrocarrils de la Generalitat de Catalunya; Importe: 11200.00 EUR; Estado: EN PLAZO",
+      "organo": "Ferrocarrils de la Generalitat de Catalunya",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "11200",
+      "valor_estimado": "24640",
+      "cpv": [
+        "92622000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "9",
+      "fecha_limite": "2026-12-10 12:00:00",
+      "actualizado": "2026-11-23T14:02:39.841+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/c110abfe-4bb1-44f3-8029-a0fefe9eaf3a/300947160",
+      "detectado_por": [
+        "CPV 92622000",
+        "palabra «esport»"
+      ]
+    },
+    {
+      "expediente": "2026/0021840",
+      "titulo": "Inspecció i certificació anual de material i equipament lúdic i esportiu i la inspecció i certificació de la correcta instal·lació i muntatge del circuit modular i desmuntable Pump Track",
+      "resumen": "Id licitación: 2026/0021840; Órgano de Contratación: Diputació de Barcelona; Importe: 25568.00 EUR; Estado: EN PLAZO",
+      "organo": "Diputació de Barcelona",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "25568",
+      "valor_estimado": "56249.6",
+      "cpv": [
+        "71300000",
+        "71631000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "9",
+      "fecha_limite": "2026-12-10 14:00:00",
+      "actualizado": "2026-11-24T12:04:06.914+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/e1d647d7-314d-48c6-a8d9-bf3ea8fb8076/300948372",
+      "detectado_por": [
+        "palabra «esport»"
+      ]
+    },
+    {
+      "expediente": "CONTR 2026 0000288074",
+      "titulo": "servicio de organización de la fase final de la vi ed de la liga led 2027",
+      "resumen": "Id licitación: CONTR 2026 0000288074; Órgano de contratación: Consejería de Cultura y Deporte. Secretaría General Técnica (En Transición); Importe: 52.000,00 €;",
+      "organo": "Consejería de Cultura y Deporte. Secretaría General Técnica (En Transición)",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "52000",
+      "valor_estimado": "52000",
+      "cpv": [
+        "45223100",
+        "71317000",
+        "79714000",
+        "85142000",
+        "92620000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "999",
+      "fecha_limite": "2026-12-10 15:00:00",
+      "actualizado": "2026-11-24T14:42:06.950+01:00",
+      "enlace": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1038762",
+      "detectado_por": [
+        "CPV 92620000"
+      ]
+    },
+    {
+      "expediente": "C-336A/030-26 (A/SER-047498/2026)",
+      "titulo": "Servicios sanitarios, para la temporada de verano de 2027 en las instalaciones deportivas gestionadas por la Dirección General de Deportes",
+      "resumen": "Id licitación: C-336A/030-26 (A/SER-047498/2026);Órgano de Contratación: Consejería de Cultura, Turismo y Deporte;Importe: 167531.44 EUR;",
+      "organo": "Consejería de Cultura, Turismo y Deporte",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "167531.44",
+      "valor_estimado": "167531.44",
+      "cpv": [
+        "85141000",
+        "85141200"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-11 23:59:00",
+      "actualizado": "2026-11-25T10:41:19.327+01:00",
+      "enlace": "https://contratos-publicos.comunidad.madrid/contrato-publico/servicios-sanitarios-temporada-verano-2027-instalaciones-deportivas-gestionadas",
+      "detectado_por": [
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "B046-2026-00013",
+      "titulo": "Renovación del alumbrado deportivo mediante tecnología LED en el campo de futbol de Ipar Zelaia de Gernika-Lumo",
+      "resumen": "Id licitación: B046-2026-00013; Órgano de Contratación: Ayuntamiento de Gernika-Lumo-Junta de Gobierno; Importe: 85087.72EUR; Estado: PUB",
+      "organo": "Ayuntamiento de Gernika-Lumo-Junta de Gobierno",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "999",
+      "tipo_codigo": "999",
+      "presupuesto_sin_iva": "85087.72",
+      "valor_estimado": "85087.72",
+      "cpv": [
+        "31500000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-14 14:00:00",
+      "actualizado": "2026-11-24T15:11:48.277+01:00",
+      "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso766262/es_doc/index.html",
+      "detectado_por": [
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "3480/2026",
+      "titulo": "Es objecte del present plec la contractació de serveis consistent en el servei preventiu d’ambulàncies, destinat a donar cobertura d’assistència sanitària preventiva en les possibles incidències que es poden produir en el desenvolupament d’activitats culturals, esportives, festives, socials, etc.",
+      "resumen": "Id licitación: 3480/2026; Órgano de Contratación: Ajuntament de Collbató; Importe: 35721.32 EUR; Estado: EN PLAZO",
+      "organo": "Ajuntament de Collbató",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "35721.32",
+      "valor_estimado": "71442.64",
+      "cpv": [
+        "85143000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "9",
+      "fecha_limite": "2026-12-15 23:59:59",
+      "actualizado": "2026-11-23T14:08:41.880+01:00",
+      "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/e3788389-b466-4d7c-acdb-108f51632d6f/300947337",
+      "detectado_por": [
+        "palabra «esport»"
+      ]
+    },
+    {
+      "expediente": "5293/2026",
+      "titulo": "Servicio de gestión del polideportivo municipal de Zalla",
+      "resumen": "Id licitación: 5293/2026; Órgano de Contratación: Pleno del Ayuntamiento de Zalla; Importe: 605479.44 EUR; Estado: PUB",
+      "organo": "Pleno del Ayuntamiento de Zalla",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "605479.44",
+      "valor_estimado": "1210958.88",
+      "cpv": [
+        "92600000"
+      ],
+      "lugar": "Bizkaia",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-17 22:00:00",
+      "actualizado": "2026-11-23T10:06:44.756+01:00",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=TExpgbI19edVq4S9zvaQpQ%3D%3D",
+      "detectado_por": [
+        "CPV 92600000",
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "2026/039146",
+      "titulo": "Seguro que cubra la Defensa Jurídica, en juicios civiles y/o penales, y asistencia psicológica el personal docente de centros públicos y privados concertados no universitarios dependientes de la Consejería de Educación, Cultura y Deportes, así como del personal docente de los centros privados concertados de Castilla-La Mancha.",
+      "resumen": "Id licitación: 2026/039146; Órgano de Contratación: Secretaría General de la Consejería de Educación, Cultura y Deportes de la Junta de Comunidades de Castilla-La Mancha; Importe: 98874 EUR; Estado: PUB",
+      "organo": "Secretaría General de la Consejería de Educación, Cultura y Deportes de la Junta de Comunidades de Castilla-La Mancha",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "98874",
+      "valor_estimado": "197748",
+      "cpv": [
+        "66513100"
+      ],
+      "lugar": "Castilla-LaMancha",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-18 14:00:00",
+      "actualizado": "2026-11-23T18:25:17.655+01:00",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hy1bCV1kax2ExvMJXBMHHQ%3D%3D",
+      "detectado_por": [
+        "palabra «deport»"
+      ]
+    },
+    {
+      "expediente": "174/2026",
+      "titulo": "Concesión del servicio para la explotación del Parque Multiaventura de Tirolinas de Montejícar promovida por el Ayuntamiento de Montejicar (Granada).",
+      "resumen": "Id licitación: 174/2026; Órgano de Contratación: Alcaldía del Ayuntamiento de Montejícar; Importe: 3000 EUR; Estado: PUB",
+      "organo": "Alcaldía del Ayuntamiento de Montejícar",
+      "estado_codigo": "PUB",
+      "estado": "En plazo",
+      "tipo": "Concesión de servicios",
+      "tipo_codigo": "22",
+      "presupuesto_sin_iva": "3000",
+      "valor_estimado": "12000",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "Granada",
+      "procedimiento_codigo": "1",
+      "fecha_limite": "2026-12-21 23:59:00",
+      "actualizado": "2026-11-23T13:56:59.490+01:00",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0ZBYtA3MvWPjHF5qKI4aaw%3D%3D",
+      "detectado_por": [
+        "CPV 92610000"
+      ]
+    },
+    {
+      "expediente": "AAI/AP-739841-O-1",
+      "titulo": "Estudio de viabilidad económico-financiera de la concesión de servicio de la sala de artes marciales de Anoeta de San Sebastián",
+      "resumen": "Id licitación: AP739841O1; Órgano de Contratación: Patronato Municipal de Deportes de Donostia/San Sebastián-Gerencia; Valor Estimado: 1078554.13EUR; Estado: PRE",
+      "organo": "Patronato Municipal de Deportes de Donostia/San Sebastián",
+      "estado_codigo": "PRE",
+      "estado": "Anuncio previo",
+      "tipo": "Concesión de servicios",
+      "tipo_codigo": "22",
+      "presupuesto_sin_iva": "no indicado",
+      "valor_estimado": "1078554.13",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "",
+      "fecha_limite": "no indicado",
+      "actualizado": "2026-11-25T15:11:47.343+01:00",
+      "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expapjaso739841/es_doc/index.html",
+      "detectado_por": [
+        "CPV 92610000"
+      ]
+    },
+    {
+      "expediente": "AAI/AP-755261-O-1",
+      "titulo": "Concesión del servicio de gestión integral del Polideportivo Municipal de Bakio",
+      "resumen": "Id licitación: AP755261O1; Órgano de Contratación: Ayuntamiento de Bakio-Pleno; Valor Estimado: 971134.75EUR; Estado: PRE",
+      "organo": "Ayuntamiento de Bakio",
+      "estado_codigo": "PRE",
+      "estado": "Anuncio previo",
+      "tipo": "Servicios",
+      "tipo_codigo": "2",
+      "presupuesto_sin_iva": "no indicado",
+      "valor_estimado": "971134.75",
+      "cpv": [
+        "92610000"
+      ],
+      "lugar": "no indicado",
+      "procedimiento_codigo": "",
+      "fecha_limite": "no indicado",
+      "actualizado": "2026-11-23T13:11:59.405+01:00",
+      "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expapjaso755261/es_doc/index.html",
+      "detectado_por": [
+        "CPV 92610000",
+        "palabra «deport»"
+      ]
+    }
+  ]
+}
